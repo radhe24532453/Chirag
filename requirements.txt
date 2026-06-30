@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+httpx
+requests
+python-dotenv
+uvloop
